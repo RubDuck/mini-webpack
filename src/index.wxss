@@ -6,3 +6,6 @@ span {
 div {
   display: flex;
 }
+.yyyy {
+  color: red;
+}
